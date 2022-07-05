@@ -5,5 +5,3 @@ tags: []
 featured_image: ""
 description: ""
 ---
-
-Welcome to Awesome Inc.
