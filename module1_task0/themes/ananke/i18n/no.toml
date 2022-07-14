@@ -10,9 +10,6 @@ other = "Nyeste {{.Title }}"
 [readMore]
 other = "Les mer"
 
-[by]
-other = "Av"
-
 [whatsInThis]
 other = "Innhold av {{ .Type }}"
 
@@ -36,6 +33,3 @@ other = "Sende"
 
 [taxonomyPageList]
 other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
-
-[pageTitle]
-other = "{{ .Name }} side"

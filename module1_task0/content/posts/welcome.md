@@ -1,6 +1,7 @@
 ---
-title: "Welcome to Awesome Inc."
-date: 2022-07-14T00:02:49Z
-draft: true
+title: "Welcome"
+date: 2021-08-12T23:54:07+01:00
+draft: false
 ---
 
+Welcome to Awesome Inc.
