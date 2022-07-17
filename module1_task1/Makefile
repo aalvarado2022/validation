@@ -14,3 +14,6 @@ post:
 	@chmod u+x ./content/posts/T25Gq4St.md
 	@hugo new posts/3hzZ08iK.md
 	@chmod u+x ./content/posts/3hzZ08iK.md
+	@hugo new posts/tW9I3TQi.md
+	@chmod u+x ./content/posts/tW9I3TQi.md
+
